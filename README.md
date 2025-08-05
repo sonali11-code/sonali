@@ -21,8 +21,6 @@
 <br>
 🤔 Check Out my <a href="https://drive.google.com/file/d/1G7t-7h_d9Z56yCotl6eyJXosYJcKghxo/view" style="color: rgb(211, 28, 255);">Resume</a>
 <br>
-👨‍💻 Know more about me <a href="https://khushi-s-portfolio.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
-<br>
 ⚡📫 How to reach me <a href="mailto:asonalirao@gmail.com" style="color:rgb(250, 111, 50);">asonalirao@gmail.com</a>
 </p>
 </div>
