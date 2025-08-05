@@ -53,14 +53,6 @@
 
 <h2 align="center">Get in Touch</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khushi-gupta-76b983260" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-    <a href="https:https://khushi-s-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
-  </a>
-
 </p>
 
 <p align="center">
