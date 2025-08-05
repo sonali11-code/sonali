@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
+<h1 align="center">Hi 👋, I'm A Sonali Rao</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
-  <h3>Profile Views 👀 </h3>  <img src="https://profile-counter.glitch.me/khushikumari05/count.svg" height="50" alt="Profile Views"  />
+  <h3>Profile Views 👀 </h3>  <img src="https://profile-counter.glitch.me/sonali11/count.svg" height="50" alt="Profile Views"  />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushikumari05" alt="khushikumari05" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali11" alt="sonali11" /></a> </p>
 </div>
 
 
@@ -13,7 +13,7 @@
 
 <img align="right" height="160" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="center">
- Hello! My name is Khushi Kumari & I enjoy creating things that live on the internet.
+ Hello! My name is A Sonali Rao & I enjoy creating things that live on the internet.
   <br>
   🌱 I’m currently learning **MERN**
   <br>
