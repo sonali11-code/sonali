@@ -23,7 +23,7 @@
 <br>
 👨‍💻 Know more about me <a href="https://khushi-s-portfolio.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
 <br>
-⚡📫 How to reach me <a href="mailto:khushigupta79kk@gmail.com" style="color:rgb(250, 111, 50);">khushigupta79kk@gmail.com</a>
+⚡📫 How to reach me <a href="mailto:asonalirao@gmail.com" style="color:rgb(250, 111, 50);">asonalirao@gmail.com</a>
 </p>
 </div>
 
@@ -48,9 +48,9 @@
 </p>
 
 <div align="center">
-<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushikumari05&layout=compact&theme=radical" height="150" alt="languages graph"  /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushikumari05&show_icons=true&locale=en&theme=radical" alt="khushikumari05" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushikumari05&theme=midnight-purple" alt="khushikumari05" /></p>
+<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonali11&layout=compact&theme=radical" height="150" alt="languages graph"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonali11&show_icons=true&locale=en&theme=radical" alt="sonali11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonali11&theme=midnight-purple" alt="sonali11" /></p>
 </div>
 
 <h2 align="center">Get in Touch</h2>
