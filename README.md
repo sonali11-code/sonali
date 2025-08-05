@@ -19,7 +19,7 @@
   <br>
   🤓 Interested in learning new things.
 <br>
-🤔 Check Out my <a href="https://drive.google.com/file/d/1p7C4HW4kaIuCB76cP32VlSfsjQsRslQM/view?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
+🤔 Check Out my <a href="https://drive.google.com/file/d/1G7t-7h_d9Z56yCotl6eyJXosYJcKghxo/view" style="color: rgb(211, 28, 255);">Resume</a>
 <br>
 👨‍💻 Know more about me <a href="https://khushi-s-portfolio.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
 <br>
